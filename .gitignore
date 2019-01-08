@@ -15,3 +15,6 @@ yarn-error.log*
 
 # Gatsby cache
 .cache/
+
+# Gatsby deploy root directory
+public
