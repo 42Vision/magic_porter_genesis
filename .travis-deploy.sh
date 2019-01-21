@@ -11,4 +11,6 @@ cp travis_rsa ~/.ssh/id_rsa
 
 yarn add global gatsby
 yarn
-yarn run deploy
+yarn run deployci
+ssh -vvvT git@github.com
+./node_modules/.bin/gh-pages -d build/ -b gh-pages -r git@github.com:${TRAVIS_REPO_SLUG}.git
