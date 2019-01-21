@@ -9,13 +9,6 @@ deploy:
   provider: script
   skip-cleanup: true
   keep-history: true
-  script: ./.travis-deploy.sh
+  script: bash ./.travis-deploy.sh
   on:
     branch: master
-before_script:
-  - "yarn add global gatsby"
-  - "yarn"
-script:
-  - "yarn run test"
-after_success:
-  - "yarn run deploy"
