@@ -4,6 +4,7 @@ node_js:
 cache:
   directories:
   - node_modules
+install: yarn
 deploy:
   provider: pages
   skip-cleanup: true
@@ -13,9 +14,9 @@ deploy:
   on:
     branch: master
 before_script:
-  - "npm i -g gatsby"
-  - "npm i"
+  - "yarn add global gatsby"
+  - "yarn"
 script:
-  - "npm run test"
+  - "yarn run test"
 after_success:
-  - "npm run deploy"
+  - "yarn run deploy"
