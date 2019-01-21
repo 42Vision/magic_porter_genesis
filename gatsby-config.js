@@ -3,10 +3,10 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
+    url: 'http://magicporter.com/',
+    title: 'One Answer for Your Problem',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'Bring the best answer to lost programmer',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -24,7 +24,7 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'MagicRabbit',
       email: '#',
       telegram: '#',
       twitter: '#',
