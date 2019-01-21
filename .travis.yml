@@ -4,18 +4,11 @@ node_js:
 cache:
   directories:
   - node_modules
+install: yarn
 deploy:
-  provider: pages
+  provider: script
   skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  local_dir: public
   keep-history: true
+  script: bash ./.travis-deploy.sh
   on:
     branch: master
-before_script:
-  - "npm i -g gatsby"
-  - "npm i"
-script:
-  - "npm run test"
-after_success:
-  - "npm run deploy"
