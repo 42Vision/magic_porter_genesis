@@ -6,11 +6,10 @@ cache:
   - node_modules
 install: yarn
 deploy:
-  provider: pages
+  provider: script
   skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  local_dir: public
   keep-history: true
+  script: ./.travis-deploy.sh
   on:
     branch: master
 before_script:
