@@ -13,4 +13,4 @@ yarn add global gatsby
 yarn
 yarn run deployci
 # ssh -vvvT git@github.com
-./node_modules/.bin/gh-pages -d build/ -b gh-pages -r git@github.com:${TRAVIS_REPO_SLUG}.git
+./node_modules/.bin/gh-pages -d public -b gh-pages -r git@github.com:${TRAVIS_REPO_SLUG}.git
