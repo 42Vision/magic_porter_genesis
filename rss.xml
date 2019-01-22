@@ -1,8 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[One Answer for Your Problem]]></title><description><![CDATA[Bring the best answer to lost programmer]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 22 Jan 2019 11:43:38 GMT</lastBuildDate><item><title><![CDATA[Rsync-Creates-A-Directory-With-The-Same-Name-Inside-Of-Destination-Directory]]></title><link>http://magicporter.com//posts/2019-01-22---rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory</link><guid isPermaLink="false">http://magicporter.com//posts/2019-01-22---rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory</guid><pubDate>Tue, 22 Jan 2019 11:05:30 GMT</pubDate><content:encoded>&lt;p&gt;Question:
-Rsync creates one more directory “tests” inside of existing “tests”&lt;/p&gt;
-&lt;p&gt;Answer:
-If you don’t want another tests directory created, the correct command would be&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 22 Jan 2019 14:58:51 GMT</lastBuildDate><item><title><![CDATA[Replace In Current Line In Vim]]></title><link>http://magicporter.com//posts/2019-01-22---replace-in-current-line-in-vim</link><guid isPermaLink="false">http://magicporter.com//posts/2019-01-22---replace-in-current-line-in-vim</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+&lt;h2&gt;Question&lt;/h2&gt;
+&lt;p&gt;How to replace text in current line in Vim&lt;/p&gt;
+&lt;h2&gt;Answer&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;:s/foo/bar/g&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Find each occurrence of &amp;#39;foo&amp;#39; (in the current line only), and replace it with &amp;#39;bar&amp;#39;.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://vim.wikia.com/wiki/Search_and_replace&quot;&gt;http://vim.wikia.com/wiki/Search&lt;em&gt;and&lt;/em&gt;replace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Rsync Creates A Directory With The Same Name Inside Of Destination Directory]]></title><link>http://magicporter.com//posts/2019-01-22---rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory</link><guid isPermaLink="false">http://magicporter.com//posts/2019-01-22---rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+&lt;p&gt;Works on &lt;strong&gt;2018-01-22T19:11:49 +0800&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Question&lt;/h2&gt;
+&lt;p&gt;Rsync creates one more directory “tests” inside of existing “tests”&lt;/p&gt;
+&lt;h2&gt;Answer&lt;/h2&gt;
+&lt;p&gt;If you don’t want another tests directory created, the correct command would be&lt;/p&gt;
 &lt;p&gt;rsync -avzp —del -e “ssh -p myport” user@hostname:/var/www/tests/ /var/www/tests
 Note the / at the end of user@hostname:/var/www/tests/.&lt;/p&gt;
-&lt;p&gt;Works on &lt;strong&gt;2019-01-22T19:11:49 +0800&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://serverfault.com/questions/529287/rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory&quot;&gt;Original Link&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;h2&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://serverfault.com/questions/529287/rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory&quot;&gt;https://serverfault.com/questions/529287/rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
