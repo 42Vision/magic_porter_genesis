@@ -1,9 +1,9 @@
 ---
 title: Replace In Current Line In Vim
-date: "2019-01-22T22:38:34.121Z"
+date: "2019-01-22 22:38:34.121+0800"
 layout: post
 draft: false
-path: "/posts/2019-01-22---replace-in-current-line-in-vim"
+path: "/posts/replace-in-current-line-in-vim---2019-01-22"
 category: "tips"
 tags:
   - "Vim"
@@ -12,6 +12,8 @@ description: ""
 ---
 
 ## Check Date
+
+Works on **2019-01-22 22:38:34 +0800**
 
 ## Question
 

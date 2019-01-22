@@ -8,8 +8,9 @@ TITLE=${INPUT_TITLE// /-}
 DATE=$(date +'%Y-%m-%d')
 ISO_DATE=$(date +"%Y-%m-%dT%H:%M:%S%z")
 ARTICLES_DIR=$DATE"---"${TITLE}
+ARTICLE_PATH=$TITLE"---"$DATE
 ARTICLES_DIR=$(python -c 'print("'$ARTICLES_DIR'".title())')
-POST_PATH=$(python -c 'print("'$ARTICLES_DIR'".lower())')
+POST_PATH=$(python -c 'print("'$ARTICLE_PATH'".lower())')
 TITLE=$(python -c 'print("'$TITLE'".title())')
 ARTICLE_TITLE=${TITLE//-/ }
 TARGET=$ARTICLES_ROOT"/"$ARTICLES_DIR
@@ -32,6 +33,8 @@ description: ""
 ---
 
 ## Check Date
+
+Works on **DATE**
 
 ## Question
 

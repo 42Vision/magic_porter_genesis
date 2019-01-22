@@ -1,6 +1,6 @@
 ---
 title: Rsync Creates A Directory With The Same Name Inside Of Destination Directory
-date: "2019-01-22T11:05:30 +0800"
+date: "2019-01-22 11:05:30+0800"
 layout: post
 draft: false
 path: "/posts/2019-01-22---rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory"
@@ -14,7 +14,7 @@ description: ""
 
 ## Check Date
 
-Works on **2018-01-22T19:11:49 +0800**
+Works on **2018-01-22 19:11:49 +0800**
 
 ## Question
 
