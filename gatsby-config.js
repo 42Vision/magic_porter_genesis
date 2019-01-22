@@ -4,9 +4,9 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     url: 'http://magicporter.com/',
-    title: 'One Answer for Your Problem',
+    title: 'The only useful Answer for Your Problem',
     subtitle:
-      'Bring the best answer to lost programmer',
+      'Bring the answer to lost vistor',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [

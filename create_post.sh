@@ -3,14 +3,15 @@
 set -x
 
 ARTICLES_ROOT='src/pages/articles'
-TITLE=$@
-TITLE=${TITLE// /-}
+INPUT_TITLE=$@
+TITLE=${INPUT_TITLE// /-}
 DATE=$(date +'%Y-%m-%d')
-ISO_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+ISO_DATE=$(date +"%Y-%m-%dT%H:%M:%S %z")
 ARTICLES_DIR=$DATE"---"${TITLE}
 ARTICLES_DIR=$(python -c 'print("'$ARTICLES_DIR'".title())')
 POST_PATH=$(python -c 'print("'$ARTICLES_DIR'".lower())')
 TITLE=$(python -c 'print("'$TITLE'".title())')
+ARTICLE_TITLE=${TITLE//-/ }
 TARGET=$ARTICLES_ROOT"/"$ARTICLES_DIR
 POST=$TARGET"/index.md"
 if [[ ! -e $TARGET ]]; then
@@ -18,7 +19,7 @@ if [[ ! -e $TARGET ]]; then
     touch $POST
     tee $POST <<EOF >/dev/null
 ---
-title: ${TITLE}
+title: ${ARTICLE_TITLE}
 date: "${ISO_DATE}"
 layout: post
 draft: false
@@ -29,6 +30,17 @@ tags:
   - ""
 description: ""
 ---
+
+## Check Date
+
+## Question
+
+## Answer
+
+## Reference
+
+- []()
+
 EOF
 fi
 # vim $POST

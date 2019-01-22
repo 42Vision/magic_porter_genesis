@@ -1,6 +1,6 @@
 ---
-title: Rsync-Creates-A-Directory-With-The-Same-Name-Inside-Of-Destination-Directory
-date: "2019-01-22T11:05:30Z"
+title: Rsync Creates A Directory With The Same Name Inside Of Destination Directory
+date: "2019-01-22T11:05:30 +0800"
 layout: post
 draft: false
 path: "/posts/2019-01-22---rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory"
@@ -12,16 +12,21 @@ tags:
 description: ""
 ---
 
-Question:
+## Check Date
+
+Works on **2018-01-22T19:11:49 +0800**
+
+## Question
+
 Rsync creates one more directory "tests" inside of existing "tests"
 
+## Answer
 
-Answer:
 If you don't want another tests directory created, the correct command would be
 
 rsync -avzp --del -e "ssh -p myport" user@hostname:/var/www/tests/ /var/www/tests
 Note the / at the end of user@hostname:/var/www/tests/.
 
-Works on **2019-01-22T19:11:49 +0800**
+## Reference
 
-[Original Link](https://serverfault.com/questions/529287/rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory)
+- [https://serverfault.com/questions/529287/rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory](https://serverfault.com/questions/529287/rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory)
