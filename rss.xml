@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 22 Jan 2019 15:54:00 GMT</lastBuildDate><item><title><![CDATA[Replace In Current Line In Vim]]></title><link>http://magicporter.com//posts/2019-01-22---replace-in-current-line-in-vim</link><guid isPermaLink="false">http://magicporter.com//posts/2019-01-22---replace-in-current-line-in-vim</guid><pubDate>Tue, 22 Jan 2019 22:38:34 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 22 Jan 2019 16:25:37 GMT</lastBuildDate><item><title><![CDATA[Replace In Current Line In Vim]]></title><link>http://magicporter.com//posts/replace-in-current-line-in-vim---2019-01-22</link><guid isPermaLink="false">http://magicporter.com//posts/replace-in-current-line-in-vim---2019-01-22</guid><pubDate>Tue, 22 Jan 2019 14:38:34 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+&lt;p&gt;Works on &lt;strong&gt;2019-01-22 22:38:34 +0800&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Question&lt;/h2&gt;
 &lt;p&gt;How to replace text in current line in Vim&lt;/p&gt;
 &lt;h2&gt;Answer&lt;/h2&gt;
@@ -7,8 +8,8 @@
 &lt;h2&gt;Reference&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://vim.wikia.com/wiki/Search_and_replace&quot;&gt;http://vim.wikia.com/wiki/Search_and_replace&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Rsync Creates A Directory With The Same Name Inside Of Destination Directory]]></title><link>http://magicporter.com//posts/2019-01-22---rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory</link><guid isPermaLink="false">http://magicporter.com//posts/2019-01-22---rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
-&lt;p&gt;Works on &lt;strong&gt;2018-01-22T19:11:49 +0800&lt;/strong&gt;&lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Rsync Creates A Directory With The Same Name Inside Of Destination Directory]]></title><link>http://magicporter.com//posts/2019-01-22---rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory</link><guid isPermaLink="false">http://magicporter.com//posts/2019-01-22---rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory</guid><pubDate>Tue, 22 Jan 2019 03:05:30 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+&lt;p&gt;Works on &lt;strong&gt;2018-01-22 19:11:49 +0800&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Question&lt;/h2&gt;
 &lt;p&gt;Rsync creates one more directory “tests” inside of existing “tests”&lt;/p&gt;
 &lt;h2&gt;Answer&lt;/h2&gt;
