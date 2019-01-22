@@ -18,3 +18,5 @@ yarn-error.log*
 
 # Gatsby deploy root directory
 public
+
+travis_rsa
