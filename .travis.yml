@@ -11,4 +11,4 @@ deploy:
   keep-history: true
   script: bash ./.travis-deploy.sh
   on:
-    branch: setup_ci
+    branch: release
