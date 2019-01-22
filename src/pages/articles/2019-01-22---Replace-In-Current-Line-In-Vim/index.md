@@ -1,6 +1,6 @@
 ---
 title: Replace In Current Line In Vim
-date: "2019-01-22T22:38:34Z"
+date: "2019-01-22T22:38:34.121Z"
 layout: post
 draft: false
 path: "/posts/2019-01-22---replace-in-current-line-in-vim"
@@ -25,4 +25,4 @@ How to replace text in current line in Vim
     
 ## Reference
 
-- [http://vim.wikia.com/wiki/Search_and_replace](http://vim.wikia.com/wiki/Search_and_replace)
+- [http://vim.wikia.com/wiki/Search\_and\_replace](http://vim.wikia.com/wiki/Search_and_replace)
