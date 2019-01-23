@@ -13,4 +13,5 @@ yarn add global gatsby
 yarn
 yarn run deployci
 # ssh -vvvT git@github.com
+echo 'magicporter.com' > public/CNAME
 ./node_modules/.bin/gh-pages -d public -b gh-pages -r git@github.com:${TRAVIS_REPO_SLUG}.git
