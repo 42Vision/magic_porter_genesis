@@ -23,7 +23,7 @@ How to replace text in current line in Vim
 
 `:s/foo/bar/g`
 
-    Find each occurrence of 'foo' (in the current line only), and replace it with 'bar'.
+Find each occurrence of 'foo' (in the current line only), and replace it with 'bar'.
     
 ## Reference
 
