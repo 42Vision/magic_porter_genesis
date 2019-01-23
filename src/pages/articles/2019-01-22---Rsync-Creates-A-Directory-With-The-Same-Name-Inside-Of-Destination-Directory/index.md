@@ -3,7 +3,7 @@ title: Rsync Creates A Directory With The Same Name Inside Of Destination Direct
 date: "2019-01-22 11:05:30+0800"
 layout: post
 draft: false
-path: "/posts/2019-01-22---rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory"
+path: "/posts/rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory---2019-01-22"
 category: ""
 tags:
   - "UNIX"
