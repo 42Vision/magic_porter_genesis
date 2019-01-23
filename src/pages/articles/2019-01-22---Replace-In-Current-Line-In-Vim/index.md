@@ -1,5 +1,5 @@
 ---
-title: Replace In Current Line In Vim
+title: Replace Text In Current Line In Vim
 date: "2019-01-22 22:38:34.121+0800"
 layout: post
 draft: false
