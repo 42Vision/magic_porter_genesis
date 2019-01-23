@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 23 Jan 2019 03:01:08 GMT</lastBuildDate><item><title><![CDATA[Replace Text In Current Line In Vim]]></title><link>http://magicporter.com//posts/replace-in-current-line-in-vim---2019-01-22</link><guid isPermaLink="false">http://magicporter.com//posts/replace-in-current-line-in-vim---2019-01-22</guid><pubDate>Tue, 22 Jan 2019 14:38:34 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 23 Jan 2019 03:49:51 GMT</lastBuildDate><item><title><![CDATA[Replace Text In Current Line In Vim]]></title><link>http://magicporter.com//posts/replace-in-current-line-in-vim---2019-01-22</link><guid isPermaLink="false">http://magicporter.com//posts/replace-in-current-line-in-vim---2019-01-22</guid><pubDate>Tue, 22 Jan 2019 14:38:34 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
 &lt;p&gt;Works on &lt;strong&gt;2019-01-22 22:38:34 +0800&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Question&lt;/h2&gt;
 &lt;p&gt;How to replace text in current line in Vim&lt;/p&gt;
 &lt;h2&gt;Answer&lt;/h2&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;:s/foo/bar/g&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Find each occurrence of &amp;#39;foo&amp;#39; (in the current line only), and replace it with &amp;#39;bar&amp;#39;.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Find each occurrence of ‘foo’ (in the current line only), and replace it with ‘bar’.
+&lt;/p&gt;
 &lt;h2&gt;Reference&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://vim.wikia.com/wiki/Search_and_replace&quot;&gt;http://vim.wikia.com/wiki/Search_and_replace&lt;/a&gt;&lt;/li&gt;
