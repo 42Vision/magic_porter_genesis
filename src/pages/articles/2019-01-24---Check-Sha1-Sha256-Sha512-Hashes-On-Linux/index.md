@@ -4,7 +4,7 @@ date: "2019-01-24 12:21:16+0800"
 layout: post
 draft: false
 path: "/posts/check-sha1-sha256-sha512-hashes-on-linux---2019-01-24"
-category: ""
+category: "Tips"
 tags:
   - "Hash"
   - "Linux"
@@ -38,7 +38,7 @@ SHA512 hashes
 
 put your target file and the hash file in the same folder, and run 
 
-`sha1sum -c`
+`sha1sum -c hash-file`
 
 see `man sha1sum` to learn more.
 
