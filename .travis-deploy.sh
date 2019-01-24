@@ -9,6 +9,7 @@ chmod 600 travis_rsa
 # ssh-add travis_rsa
 cp travis_rsa ~/.ssh/id_rsa
 
+yarn config set registry https://registry.yarnpkg.com
 yarn add global gatsby
 yarn
 yarn run deployci
