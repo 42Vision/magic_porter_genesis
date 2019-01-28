@@ -6,7 +6,8 @@ draft: false
 path: "/posts/no-toolchains-found-in-the-ndk-toolchains-folder---2019-01-28"
 category: "Tips"
 tags:
-  - "Flutter" "Android"
+  - "Flutter"
+  - "Android"
 description: ""
 
 ---
