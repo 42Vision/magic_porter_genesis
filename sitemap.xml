@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>http://magicporter.com//posts/replace-in-current-line-in-vim---2019-01-22</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://magicporter.com//tags/vim/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://magicporter.com//tags/text/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://magicporter.com//categories/tips/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//posts/rsync-creates-a-directory-with-the-same-name-inside-of-destination-directory---2019-01-22</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/unix/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/command/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/rsync/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://magicporter.com//posts/replace-in-current-line-in-vim---2019-01-22</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://magicporter.com//tags/vim/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://magicporter.com//tags/text/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://magicporter.com//categories/tips/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//posts/github-pages-forgets-about-my-custom-domain---2019-01-23</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/easy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/git-hub-pages/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -24,6 +24,8 @@
 <url> <loc>http://magicporter.com//posts/no-toolchains-found-in-the-ndk-toolchains-folder---2019-01-28</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/flutter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/android/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://magicporter.com//posts/start-supervisor-but-get-unlink-error---2019-01-30</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://magicporter.com//tags/supervisor/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//contact</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
