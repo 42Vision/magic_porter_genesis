@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 30 Jan 2019 03:49:47 GMT</lastBuildDate><item><title><![CDATA[Start Supervisor But Get Unlink Error]]></title><link>http://magicporter.com//posts/start-supervisor-but-get-unlink-error---2019-01-30</link><guid isPermaLink="false">http://magicporter.com//posts/start-supervisor-but-get-unlink-error---2019-01-30</guid><pubDate>Wed, 30 Jan 2019 03:38:11 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 31 Jan 2019 07:35:41 GMT</lastBuildDate><item><title><![CDATA[What Is Different Between Child And Children Property In Flutter]]></title><link>http://magicporter.com//posts/what-is-different-between-child-and-children-property-in-flutter---2019-01-31</link><guid isPermaLink="false">http://magicporter.com//posts/what-is-different-between-child-and-children-property-in-flutter---2019-01-31</guid><pubDate>Thu, 31 Jan 2019 07:21:17 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+&lt;p&gt;Works on &lt;strong&gt;2019-01-31 15:22:44+0800&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Question&lt;/h2&gt;
+&lt;p&gt;What is different between child: and children: property in flutter?&lt;/p&gt;
+&lt;h2&gt;Answer&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;child&lt;/code&gt; takes a single widget&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;child: Text(&amp;#39;foo&amp;#39;)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;children&lt;/code&gt; takes a list of widgets&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;children: &amp;lt;Widget&amp;gt;[Text(&amp;#39;foo&amp;#39;), Text(&amp;#39;bar&amp;#39;)]&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/questions/54053909/what-is-different-between-child-and-children-property-in-flutter&quot;&gt;https://stackoverflow.com/questions/54053909/what-is-different-between-child-and-children-property-in-flutter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Start Supervisor But Get Unlink Error]]></title><link>http://magicporter.com//posts/start-supervisor-but-get-unlink-error---2019-01-30</link><guid isPermaLink="false">http://magicporter.com//posts/start-supervisor-but-get-unlink-error---2019-01-30</guid><pubDate>Wed, 30 Jan 2019 03:38:11 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
 &lt;p&gt;Works on &lt;strong&gt;2019-01-30 11:38:46+0800&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Question&lt;/h2&gt;
 &lt;p&gt;Stopping supervisord: Shut down&lt;/p&gt;
