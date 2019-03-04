@@ -23,6 +23,8 @@ How calculate the day of the week of a date in ruby ?
 
   require('date')
   
+  today = date.today
+  
   today.wday
 
 ## Reference
