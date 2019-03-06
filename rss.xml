@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 05 Mar 2019 03:05:27 GMT</lastBuildDate><item><title><![CDATA[Minimize And Hide All Windows In Mac Os X]]></title><link>http://magicporter.com//posts/minimize-and-hide-all-windows-in-mac-os-x---2019-03-05</link><guid isPermaLink="false">http://magicporter.com//posts/minimize-and-hide-all-windows-in-mac-os-x---2019-03-05</guid><pubDate>Tue, 05 Mar 2019 02:48:38 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 06 Mar 2019 07:05:31 GMT</lastBuildDate><item><title><![CDATA[How To Get Module Path in NodeJS]]></title><link>http://magicporter.com//posts/how-to-get-module-path-in-nodejs---2019-03-06</link><guid isPermaLink="false">http://magicporter.com//posts/how-to-get-module-path-in-nodejs---2019-03-06</guid><pubDate>Wed, 06 Mar 2019 06:58:53 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+&lt;p&gt;Works on &lt;strong&gt;2019-03-06 15:00:08+0800&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Question&lt;/h2&gt;
+&lt;p&gt;How To Get Module Path in NodeJS ?&lt;/p&gt;
+&lt;h2&gt;Answer&lt;/h2&gt;
+&lt;p&gt;Node version v10.15.2&lt;/p&gt;
+&lt;p&gt;  $ node&lt;/p&gt;
+&lt;p&gt;  &gt; module.paths&lt;/p&gt;
+&lt;p&gt;  &gt; .exit // exit node shell &lt;/p&gt;
+&lt;h2&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8&quot;&gt;https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Minimize And Hide All Windows In Mac Os X]]></title><link>http://magicporter.com//posts/minimize-and-hide-all-windows-in-mac-os-x---2019-03-05</link><guid isPermaLink="false">http://magicporter.com//posts/minimize-and-hide-all-windows-in-mac-os-x---2019-03-05</guid><pubDate>Tue, 05 Mar 2019 02:48:38 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
 &lt;p&gt;Works on &lt;strong&gt;2019-03-05 10:49:07+0800&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Question&lt;/h2&gt;
 &lt;p&gt;How to minimize all windows on macOS ?&lt;/p&gt;
