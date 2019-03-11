@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 08 Mar 2019 10:54:12 GMT</lastBuildDate><item><title><![CDATA[How To Trim String In Python or PHP?]]></title><link>http://magicporter.com//posts/how-to-trim-string-in-python-or-php---2019-03-08</link><guid isPermaLink="false">http://magicporter.com//posts/how-to-trim-string-in-python-or-php---2019-03-08</guid><pubDate>Fri, 08 Mar 2019 10:48:15 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 11 Mar 2019 03:50:12 GMT</lastBuildDate><item><title><![CDATA[How to exclude one word with grep]]></title><link>http://magicporter.com//posts/how-to-exclude-one-word-with-grep---2019-03-11</link><guid isPermaLink="false">http://magicporter.com//posts/how-to-exclude-one-word-with-grep---2019-03-11</guid><pubDate>Mon, 11 Mar 2019 03:44:37 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+&lt;p&gt;Works on &lt;strong&gt;2019-03-11 11:45:51+0800&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Question&lt;/h2&gt;
+&lt;p&gt;How to exclude one word with grep command ?&lt;/p&gt;
+&lt;h2&gt;Answer&lt;/h2&gt;
+&lt;p&gt;use flag &lt;code class=&quot;language-text&quot;&gt;-v&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;cat some-file | grep -v &amp;#39;some-word&amp;#39; &amp;gt; result.txt&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/questions/4538253/how-can-i-exclude-one-word-with-grep&quot;&gt;https://stackoverflow.com/questions/4538253/how-can-i-exclude-one-word-with-grep&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[How To Trim String In Python or PHP?]]></title><link>http://magicporter.com//posts/how-to-trim-string-in-python-or-php---2019-03-08</link><guid isPermaLink="false">http://magicporter.com//posts/how-to-trim-string-in-python-or-php---2019-03-08</guid><pubDate>Fri, 08 Mar 2019 10:48:15 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
 &lt;p&gt;Works on &lt;strong&gt;2019-03-08 18:49:17+0800&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Question&lt;/h2&gt;
 &lt;p&gt;How To Trim String In Python or PHP&lt;/p&gt;
