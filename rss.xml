@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 11 Mar 2019 03:50:12 GMT</lastBuildDate><item><title><![CDATA[How to exclude one word with grep]]></title><link>http://magicporter.com//posts/how-to-exclude-one-word-with-grep---2019-03-11</link><guid isPermaLink="false">http://magicporter.com//posts/how-to-exclude-one-word-with-grep---2019-03-11</guid><pubDate>Mon, 11 Mar 2019 03:44:37 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 13 Mar 2019 11:07:46 GMT</lastBuildDate><item><title><![CDATA[How To Restart Vscode After Editing Extensions Config]]></title><link>http://magicporter.com//posts/how-to-restart-vscode-after-editing-extensions-config---2019-03-13</link><guid isPermaLink="false">http://magicporter.com//posts/how-to-restart-vscode-after-editing-extensions-config---2019-03-13</guid><pubDate>Wed, 13 Mar 2019 10:54:16 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+&lt;p&gt;Works on &lt;strong&gt;2019-03-13 18:54:51+0800&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Question&lt;/h2&gt;
+&lt;p&gt;How to restart vscode after editing extensions config ?&lt;/p&gt;
+&lt;h2&gt;Answer&lt;/h2&gt;
+&lt;p&gt;vscode command: &lt;code class=&quot;language-text&quot;&gt;workbench.action.reloadWindow&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Ctrl + Shift + P&lt;/code&gt; type in: Reload Window &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Define a keybinding for the command&lt;/p&gt;
+&lt;p&gt;keybindings.json&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;{
+  &amp;quot;key&amp;quot;: &amp;quot;ctrl+f5&amp;quot;,
+  &amp;quot;command&amp;quot;: &amp;quot;workbench.action.reloadWindow&amp;quot;,
+  &amp;quot;when&amp;quot;: &amp;quot;editorTextFocus&amp;quot;
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Preferences &gt; Keyboard Shortcuts&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Reference&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/questions/42002852/how-to-restart-vscode-after-editing-extensions-config&quot;&gt;https://stackoverflow.com/questions/42002852/how-to-restart-vscode-after-editing-extensions-config&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[How to exclude one word with grep]]></title><link>http://magicporter.com//posts/how-to-exclude-one-word-with-grep---2019-03-11</link><guid isPermaLink="false">http://magicporter.com//posts/how-to-exclude-one-word-with-grep---2019-03-11</guid><pubDate>Mon, 11 Mar 2019 03:44:37 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
 &lt;p&gt;Works on &lt;strong&gt;2019-03-11 11:45:51+0800&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Question&lt;/h2&gt;
 &lt;p&gt;How to exclude one word with grep command ?&lt;/p&gt;
