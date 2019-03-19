@@ -18,14 +18,12 @@
 <url> <loc>http://magicporter.com//posts/check-sha1-sha256-sha512-hashes-on-linux---2019-01-24</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/hash/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/linux/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://magicporter.com//posts/select-columns-of-text-in-vscode---2019-01-25</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://magicporter.com//tags/vscode/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://magicporter.com//tags//</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://magicporter.com//posts/how-to-break-line-in-chrome-console---2019-01-27</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://magicporter.com//tags/chrome/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//posts/no-toolchains-found-in-the-ndk-toolchains-folder---2019-01-28</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/flutter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/android/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://magicporter.com//posts/select-columns-of-text-in-vscode---2019-01-25</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://magicporter.com//tags/vscode/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://magicporter.com//tags//</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//posts/start-supervisor-but-get-unlink-error---2019-01-30</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/supervisor/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//posts/what-is-different-between-child-and-children-property-in-flutter---2019-01-31</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -37,6 +35,8 @@
 <url> <loc>http://magicporter.com//tags/mac-os/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//posts/how-to-get-module-path-in-nodejs---2019-03-06</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/node-js/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://magicporter.com//posts/how-to-break-line-in-chrome-console---2019-01-27</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://magicporter.com//tags/chrome/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//posts/how-can-i-exclude-one-word-with-grep---2019-03-07</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/grep/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//posts/how-to-trim-string-in-python-or-php---2019-03-08</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -45,9 +45,9 @@
 <url> <loc>http://magicporter.com//posts/how-to-exclude-one-word-with-grep---2019-03-11</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//posts/how-to-restart-vscode-after-editing-extensions-config---2019-03-13</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/vs-code/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://magicporter.com//posts/determine-os-x-version-from-the-command-line---2019-03-19</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//posts/how-to-use-multi-line-string-in-shell---2019-03-19</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//tags/shell/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://magicporter.com//posts/determine-os-x-version-from-the-command-line---2019-03-19</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//posts/pseudo-terminal-will-not-be-allocated-because-stdin-is-not-a-terminal---2019-03-19</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://magicporter.com//</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

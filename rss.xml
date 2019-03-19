@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 19 Mar 2019 07:18:39 GMT</lastBuildDate><item><title><![CDATA[How To Use Multi Line String In Shell]]></title><link>http://magicporter.com//posts/how-to-use-multi-line-string-in-shell---2019-03-19</link><guid isPermaLink="false">http://magicporter.com//posts/how-to-use-multi-line-string-in-shell---2019-03-19</guid><pubDate>Tue, 19 Mar 2019 07:09:33 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[The only useful Answer for Your Problem]]></title><description><![CDATA[Bring the answer to lost vistor]]></description><link>http://magicporter.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 19 Mar 2019 07:32:24 GMT</lastBuildDate><item><title><![CDATA[How To Use Multi Line String In Shell]]></title><link>http://magicporter.com//posts/how-to-use-multi-line-string-in-shell---2019-03-19</link><guid isPermaLink="false">http://magicporter.com//posts/how-to-use-multi-line-string-in-shell---2019-03-19</guid><pubDate>Tue, 19 Mar 2019 07:09:33 GMT</pubDate><content:encoded>&lt;h2&gt;Check Date&lt;/h2&gt;
 &lt;p&gt;Works on &lt;strong&gt;2019-03-19 15:10:28+0800&lt;/strong&gt; System Version &lt;strong&gt;macOS 10.13.6&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Question&lt;/h2&gt;
 &lt;p&gt;How to use Multi-line string in Shell ?&lt;/p&gt;
 &lt;h2&gt;Answer&lt;/h2&gt;
-&lt;p&gt;  cat &amp;#x3C;&amp;#x3C; EndOfMessage
-This is line 1.
-This is line 2.
-Line 3.
-EndOfMessage&lt;/p&gt;
+&lt;p&gt;  cat &amp;#x3C;&amp;#x3C; EndOfMessage&lt;/p&gt;
+&lt;p&gt;  This is line 1.&lt;/p&gt;
+&lt;p&gt;  This is line 2.&lt;/p&gt;
+&lt;p&gt;  Line 3.&lt;/p&gt;
+&lt;p&gt;  EndOfMessage&lt;/p&gt;
 &lt;p&gt;The string after ’&amp;#x3C;&amp;#x3C;’ indicates where to stop.&lt;/p&gt;
 &lt;h2&gt;Reference&lt;/h2&gt;
 &lt;ul&gt;
