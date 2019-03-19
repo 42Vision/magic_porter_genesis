@@ -21,9 +21,13 @@ How to use Multi-line string in Shell ?
 ## Answer
 
   cat << EndOfMessage
+
   This is line 1.
+
   This is line 2.
+
   Line 3.
+  
   EndOfMessage
 
 The string after '<<' indicates where to stop.
